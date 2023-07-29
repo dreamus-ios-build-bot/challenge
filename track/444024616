@@ -1,0 +1,65 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 444024616,
+    "name": "오늘도 난 봄을 기다려",
+    "lyrics": "어느 순간부터 \r\n네 행동 하나에도\r\n내 기분이 달라지곤 해\r\n내겐 소중한 이 마음이 \r\n별게 아닐까 봐서\r\n혼자 자꾸 숨기게 돼요\r\n\r\n서로가 서롤 알아보고 \r\n같은 맘을 갖는 게\r\n얼마나 어려운지\r\n매일이 봄일 수는 없겠지만 \r\n오늘도 난 봄을 기다려\r\n그날을 꿈꿔요 함께할 그날을\r\n\r\n작은 우연에도 \r\n의미를 담아 넣고\r\n나 혼자 사랑을 연습하곤 해\r\n네게 유일한 그 사람이 \r\n내가 될 수 있을까\r\n수백 번 내 맘 다잡아요\r\n\r\n서로가 서롤 알아보고 \r\n같은 맘을 갖는 게\r\n얼마나 어려운지\r\n매일이 봄일 수는 없겠지만 \r\n오늘도 난 봄을 기다려\r\n그날을 꿈꿔요 함께할 그날을\r\n\r\n그대도 내 맘과 같기를\r\n\r\n혼자서 끝나버릴 사랑인데 \r\n헛된 꿈을 꾸는 걸까 봐\r\n자꾸 겁이 나요 커지는 내 맘이\r\n언젠가는 봄이 오겠죠\r\n그날만을 기다릴게요",
+    "playTime": "03:21",
+    "album": {
+      "id": 405836981,
+      "title": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80225898,
+      "name": "케이시 (Kassy)"
+    },
+    "trackArtistList": [
+      {
+        "name": "케이시 (Kassy)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "케이시 (Kassy)",
+        "roleName": "작사"
+      },
+      {
+        "name": "서영",
+        "roleName": "작사"
+      },
+      {
+        "name": "조영수",
+        "roleName": "작곡"
+      },
+      {
+        "name": "이유진",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

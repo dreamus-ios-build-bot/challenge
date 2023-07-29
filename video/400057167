@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400057167,
+    "videoNm": "먹구름",
+    "playTm": "03:27",
+    "thumbnailImageList": [
+      {
+        "width": 2092,
+        "height": 1310,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/167/057/00/04/400057167_62a1994b_s.jpg?1654757708160"
+      }
+    ],
+    "representationArtist": {
+      "id": 80200254,
+      "name": "페노메코 (PENOMECO)"
+    }
+  }
+}

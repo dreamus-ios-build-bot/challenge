@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400035773,
+    "videoNm": "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"",
+    "playTm": "03:35",
+    "thumbnailImageList": [
+      {
+        "width": 1494,
+        "height": 840,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/773/035/00/04/400035773_606d3ee3_s.jpg?1617772260250"
+      }
+    ],
+    "representationArtist": {
+      "id": 20008679,
+      "name": "pH-1"
+    }
+  }
+}

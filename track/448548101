@@ -1,0 +1,73 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 448548101,
+    "name": "못난이 (Feat. 인프피)",
+    "lyrics": "아마 넌 모를 거야 \n내가 좋아하는 걸\n마냥 바라보기만 하면서 \n웃고 있는걸?\n기억할지는 모르겠지만 \n몇 번 마주친 적도 \n있었는걸 진짜야\n비록 아직까지는 \n이런 모습이지만\n네가 좋아하는 \n그 녀석보단 못났지만\n조금만 기다려줘 \n이제 너에게 나 고백할래\n\n시도 때도 없이 네 생각이 났어\n내 하루를 다 망쳐버릴 만큼\n\n생각만 해도 웃음이 나왔어\n얼마나 바보 같은 지 \n넌 모를 거야\n\n그러니까 그게 목요일이었던가?\n우리 눈 마주쳤던 그날이?\n그러니까 그게 금요일이었던가?\n내 꿈에 네가 놀러 왔던 그 밤이?\n\n이렇게는 도저히 안되겠어\n그러니까 내 말은\n\n아마 넌 모를 거야 \n내가 좋아하는 걸\n마냥 바라보기만 하면서 \n웃고 있는걸?\n기억할지는 모르겠지만 \n몇 번 마주친 적도 \n있었는걸 진짜야\n비록 아직까지는 \n이런 모습이지만\n네가 좋아하는 \n그 녀석보단 못났지만\n조금만 기다려줘 \n이제 너에게 나 고백할래\n이제 너에게 나 고백할래 \n\n그러니까 그게 목요일이었던가?\n우리 눈 마주쳤던 그날이?\n그러니까 그게 금요일이었던가?\n내 꿈에 네가 놀러 왔던 그 밤이?\n\n이렇게는 도저히 안되겠어\n그러니까 내 말은\n\n아마 넌 모를 거야 \n그래 몰랐을 거야\n마냥 웃고 있던 너를 \n내가 알고 있던걸\n기억할지는 모르겠지만\n그때는 정말 티를 너무 냈어 바보야\n비록 아직까지는 \n말할 수 없겠지만\n사실 말 못 하는 네가 \n너무나 귀엽지만\n조금은 기다릴게 \n어서 좋아한다고 얘기해 줘",
+    "playTime": "03:59",
+    "album": {
+      "id": 406803926,
+      "title": "못난이",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "김항규",
+        "roleName": "작사"
+      },
+      {
+        "name": "달루아",
+        "roleName": "작사"
+      },
+      {
+        "name": "김항규",
+        "roleName": "작곡"
+      },
+      {
+        "name": "달루아",
+        "roleName": "작곡"
+      },
+      {
+        "name": "달루아",
+        "roleName": "편곡"
+      },
+      {
+        "name": "인프피",
+        "roleName": "보컬"
+      }
+    ]
+  }
+}

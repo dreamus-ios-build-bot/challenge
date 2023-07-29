@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400052800,
+    "videoNm": "길지 않아도 깊어 (Feat. AnTasWell (앤타스웰), 정동수(ARKAY))",
+    "playTm": "03:02",
+    "thumbnailImageList": [
+      {
+        "width": 1771,
+        "height": 995,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/800/052/00/04/400052800_621460af_s.jpg?1645502640043"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400074906,
+    "videoNm": "좋은데 싫어(Love But Hate) (Live Clip)",
+    "playTm": "03:18",
+    "thumbnailImageList": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/906/074/00/04/400074906_6458b1cc_o.jpg?1683534284935"
+      }
+    ],
+    "representationArtist": {
+      "id": 407086793,
+      "name": "레게보이즈"
+    }
+  }
+}

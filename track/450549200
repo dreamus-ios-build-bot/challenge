@@ -1,0 +1,73 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 450549200,
+    "name": "닿을 수 없는 (Feat. 로이도(Roydo)) (Prod. XENOVIBE)",
+    "lyrics": "너는 닿을 수 없는 별\n손에 닿을 듯 가까워\n허공 위로 널 향해 손 뻗어봐도\n\n너는 모래와 같아서\n너를 잡을 수 없었어\n니가 날 경멸할까봐 겁이나\n\nWe were meant to be\n난 여전히 저 멀리 떨어져\n혼자서 매일 할 말을 준비했어\n\n매일 똑같이 난 니 주위만\n서성대는 걸\n차마 말도 못하는\n내 존재가 우스워\n\n넌 닿을수 없는 별이 되버리고\n나는 하염없이 멀어지는 널 \n보고만 서 있어\n발이 떨어지지 않는 내가 미워서\n이 가사 위에 니 얘길 써내려\n\nFor you\n너는 날 모르지만\nFor you\n네겐 닿을 수 없는 걸\n\n나를 알려주고싶어\n나도 너의 일부이고 싶었어\n이미 맘은 점점 커져서\n터질듯한 내 감정을 더\n전해주고 싶어지지만\n\n“We were meant to be”\n난 여전히 저 멀리 떨어져\n혼자서 매일 할 말을 준비했어\n\n매일 똑같이 난 니 주위만\n서성대는 걸\n차마 말도 못하는\n내 존재가 우스워\n\n넌 닿을수 없는 별이 되버리고\n나는 하염없이 멀어지는 널 \n보고만 서 있어\n발이 떨어지지 않는 내가 미워서\n이 가사 위에 니 얘길 써내려\n\nFor you\n너는 날 모르지만\nFor you\n네겐 닿을 수 없는 걸",
+    "playTime": "03:14",
+    "album": {
+      "id": 407328349,
+      "title": "닿을 수 없는",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "로이도 (Roydo)",
+        "roleName": "작사"
+      },
+      {
+        "name": "로이도 (Roydo)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "XENO VIBE",
+        "roleName": "작곡"
+      },
+      {
+        "name": "XENO VIBE",
+        "roleName": "편곡"
+      },
+      {
+        "name": "로이도 (Roydo)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "XENO VIBE",
+        "roleName": "프로듀싱"
+      }
+    ]
+  }
+}

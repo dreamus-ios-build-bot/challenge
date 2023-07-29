@@ -1,0 +1,64 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 476337813,
+    "name": "다시 태어나 (Inst.)",
+    "playTime": "03:21",
+    "album": {
+      "id": 414873865,
+      "title": "락락파티 Part.1",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80042899,
+      "name": "나비 (Navi)"
+    },
+    "trackArtistList": [
+      {
+        "name": "나비 (Navi)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "엄지윤",
+        "roleName": "보컬"
+      },
+      {
+        "name": "나비 (Navi)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "노주환",
+        "roleName": "작곡"
+      },
+      {
+        "name": "노주환",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

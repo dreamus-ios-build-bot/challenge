@@ -1,0 +1,65 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 455236399,
+    "name": "먹구름",
+    "lyrics": "내 머리 위 먹구름 Rainy\n눈치 없게 또 비 내리지\n\n쨍쨍할 일 없는 내일이\n왜 내 머리 위에\n\n하늘은 부재중 Uhm uhm\n여전히 부재중 Uhm uhm\n\nI’ll be like ooh ooh ooh\nI’ll be like ooh ooh ooh\n\n다가오지 마\n거기까지만\n\n흐릿한 내게서\n떨어지고 있는 내 빗물이 \n너에게 닿을까 봐 두려워\n밀어내는 것조차 너무 어려워\n\nI’ve been thinking am I crazy\n어디서부터가 문제인지\n내 걸음 속도에 맞춰 \n따라오는 비바람이\n괜스레 걷히지 않을 것만 같은 느낌\n\n난 아무렇지도 않아 익숙해지니까\n너에게는 고된 하루가 되겠지만\n비만 쏟아지는 오늘이 지나고 나면\n내일은 밝아질 거야 난 아직이지만\n그래\n\n내 머리 위 먹구름 Rainy\n눈치 없게 또 비 내리지\n\n쨍쨍할 일 없는 내일이\n왜 내 머리 위에\n\n하늘은 부재중 Uhm uhm\n여전히 부재중 Uhm uhm\n\nI’ll be like ooh ooh ooh\nI’ll be like ooh ooh ooh\n\nHere we are\n머리 위에 먹구름이\nHere we are\n다 걷히고 난 그 후에\nHere we are\n내 머리 위에 먹구름\n다 걷히고 나면 날씨는 더 푸름\n기대해 우리 내일 날씨는 더 푸름\n\nYeah\n누군가에겐 스트레스\n또 누군가에겐 Bless\n다 비슷한 걱정을 안고 살아\n무엇 하나 빠지게 되면 \n결국 성장은 없잖아\n\n나빠져도 How bad could it be\n늘 되묻는 질문은 \n그래서 넌 어디야 지금\n주르륵 내리는 비는 양분이 되기를\nNow waiting for \nthe storm to be coming\n\nI’ve been thinking am I crazy\n어디서부터가 문제인지\n내 걸음 속도에 맞춰 \n따라오는 비바람이\n괜스레 걷히지 않을 것만 같은 느낌\n\n난 아무렇지도 않아 익숙해지니까\n너에게는 고된 하루가 되겠지만\n몰아치고 또 쏟아져\n헤집고 또 쏟아져\n\n내 머리 위 먹구름 Rainy\n눈치 없게 또 비 내리지\n\n쨍쨍할 일 없는 내일이\n왜 내 머리 위에\n\n하늘은 부재중 Uhm uhm\n여전히 부재중 Uhm uhm\n\nI'll be like ooh ooh ooh\nI'll be like ooh ooh ooh\n\nHere we are\n머리 위에 먹구름이\nHere we are\n다 걷히고 난 그 후에\nHere we are\n내 머리 위에 먹구름\n다 걷히고 나면 날씨는 더 푸름\n기대해 우리 내일 날씨는 더 푸름\n\nI'll be like ooh ooh ooh\nI'll be like ooh ooh ooh\nI'll be like ooh ooh ooh\nI'll be like ooh ooh ooh\n\n내 머리 위 먹구름 Rainy\n눈치 없게 또 비 내리지\n\n쨍쨍할 일 없는 내일이\n왜 내 머리 위에\n\n하늘은 부재중\n여전히 부재중",
+    "playTime": "03:27",
+    "album": {
+      "id": 408504875,
+      "title": "비밀:리에 vol.6 \"먹구름\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80200254,
+      "name": "페노메코 (PENOMECO)"
+    },
+    "trackArtistList": [
+      {
+        "name": "페노메코 (PENOMECO)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "페노메코 (PENOMECO)",
+        "roleName": "작사"
+      },
+      {
+        "name": "페노메코 (PENOMECO)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "APRO (아프로)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "APRO (아프로)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

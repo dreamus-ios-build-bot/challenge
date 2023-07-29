@@ -1,0 +1,81 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 451613889,
+    "name": "길지 않아도 깊어 (Feat. AnTasWell (앤타스웰), 정동수(ARKAY))",
+    "lyrics": "무더운 여름날 난 너로 인해 식혀\n이 추운 겨울날 넌 내게 불을 지펴\n우리 지낸 시간 짧을 수도 있지만\n평생할 인연이라 지금 만났나\n\n내 속을 가득 비춰 등불\n우리는 같은 미래로 걷겠어\n매순간 너만 사랑하는게\n되려 날 행복하게 해 딱 너라서\n\n평생 해줄래 Be my love\n팽생 해줄게 든든한 편으로 \n사랑하며 같이 웃자\n행복할 우리 \n\n내 생애 처음이라고 \n내가 더 잘할게요\n아직은 모자라서 \n너가 날 채워주면 안될까\n길진 않아도 그 누구보다 깊어\n우리 둘이 같이 걷자고 발 맞춰 \n내 생을 다 바쳐 너를 사랑해\n\n의심됐겠지 나도 이런 느낌\n들어본 적은 있는 얘기\n그게 내가 될지 몰랐어\n내 주위에도 계속 물어봐도\n뭘 더 확인해 보겠어\n내겐 너의 숨소리마저도 \n편안한 자장가인데\n\n더는 참을 수 없어 What?\n고민하는 대신 눈 맞춰줘\nIt's all right. say, It's all right 멈춰\n지체하다가는 날 놓쳐\n그랬다간 아마 평생 후회할걸\n날 믿어봐\n사랑하며 같이 웃자고\n행복할 우리 \n\n내 생애 처음이라고 \n내가 더 잘할게요\n아직은 모자라서 \n너가 날 채워주면 안될까\n길진 않아도 그 누구보다 깊어\n우리 둘이 같이 걷자고 발 맞춰 \n내 생을 다 바쳐 너를 사랑해\n\n이제 걸음마 부족하지만\n그만큼 우리가 채우면 되잖아\n우리가 마주할 일들은 겁을 내지마\n내가 앞장 설테니까\n\n나도 알아\n너한테 많이 부족하단 걸\n너는 알아\n너 없이는 보잘것없는 나란 걸\noh please baby save me\n\n내 생애 처음이라고 \n내가 더 잘할게요\n아직은 모자라서 \n너가 날 채워주면 안될까\n길진 않아도 그 누구보다 깊어\n우리 둘이 같이 걷자고 발 맞춰 \n내 생을 다 바쳐 너를 사랑해",
+    "playTime": "03:00",
+    "album": {
+      "id": 407599241,
+      "title": "길지 않아도 깊어",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "작사"
+      },
+      {
+        "name": "정동수 (ARKAY)",
+        "roleName": "작사"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "정동수 (ARKAY)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "편곡"
+      },
+      {
+        "name": "그웬(Gwen)",
+        "roleName": "편곡"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "정동수 (ARKAY)",
+        "roleName": "보컬"
+      }
+    ]
+  }
+}

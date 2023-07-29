@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400048599,
+    "videoNm": "순리 (남자 Ver.)",
+    "playTm": "04:56",
+    "thumbnailImageList": [
+      {
+        "width": 1296,
+        "height": 729,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/599/048/00/04/400048599_618a17f5_s.jpg?1636440053232"
+      }
+    ],
+    "representationArtist": {
+      "id": 63976,
+      "name": "테이"
+    }
+  }
+}

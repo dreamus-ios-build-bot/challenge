@@ -1,0 +1,68 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 444840151,
+    "name": "Antisocial (Prod. Mokyo) (Inst.)",
+    "playTime": "03:35",
+    "album": {
+      "id": 406006916,
+      "title": "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 20008679,
+      "name": "pH-1"
+    },
+    "trackArtistList": [
+      {
+        "name": "pH-1",
+        "roleName": "보컬"
+      },
+      {
+        "name": "Mokyo",
+        "roleName": "작곡"
+      },
+      {
+        "name": "pH-1",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Mokyo",
+        "roleName": "편곡"
+      },
+      {
+        "name": "Jetti",
+        "roleName": "편곡"
+      },
+      {
+        "name": "Mokyo",
+        "roleName": "프로듀싱"
+      }
+    ]
+  }
+}

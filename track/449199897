@@ -1,0 +1,68 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 449199897,
+    "name": "어때? (Feat. 영운, 혜빈) (Inst.)",
+    "playTime": "02:23",
+    "album": {
+      "id": 406986080,
+      "title": "어때?",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "혜빈",
+        "roleName": "작곡"
+      },
+      {
+        "name": "영운",
+        "roleName": "편곡"
+      },
+      {
+        "name": "혜빈",
+        "roleName": "편곡"
+      },
+      {
+        "name": "영운",
+        "roleName": "보컬"
+      },
+      {
+        "name": "혜빈",
+        "roleName": "보컬"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 452947279,
+    "name": "Pick up your phone (Inst.)",
+    "playTime": "02:52",
+    "album": {
+      "id": 407968641,
+      "title": "비밀:리에 vol.5 \"Pick up your phone\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404137751,
+      "name": "미란이 (MIRANI)"
+    },
+    "trackArtistList": [
+      {
+        "name": "미란이 (MIRANI)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "미란이 (MIRANI)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Carson city",
+        "roleName": "작곡"
+      },
+      {
+        "name": "과카 (Kwaca)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "과카 (Kwaca)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

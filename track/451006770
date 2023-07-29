@@ -1,0 +1,68 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 451006770,
+    "name": "MIRROR (Inst.)",
+    "playTime": "04:33",
+    "album": {
+      "id": 407448157,
+      "title": "비밀:리에 vol.4 \"MIRROR\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80321904,
+      "name": "권은비"
+    },
+    "trackArtistList": [
+      {
+        "name": "권은비",
+        "roleName": "보컬"
+      },
+      {
+        "name": "정성민 (Psycho Tension)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "신지후",
+        "roleName": "작곡"
+      },
+      {
+        "name": "권은비",
+        "roleName": "작곡"
+      },
+      {
+        "name": "신지후",
+        "roleName": "편곡"
+      },
+      {
+        "name": "정성민 (Psycho Tension)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

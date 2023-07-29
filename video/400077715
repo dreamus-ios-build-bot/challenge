@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400077715,
+    "videoNm": "아마도 사랑인가 봐 (Live Clip)",
+    "playTm": "03:02",
+    "thumbnailImageList": [
+      {
+        "width": 1710,
+        "height": 885,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/715/077/00/04/400077715_648ab7d0_s.jpg?1686812624855"
+      }
+    ],
+    "representationArtist": {
+      "id": 80246375,
+      "name": "Young K (DAY6)"
+    }
+  }
+}

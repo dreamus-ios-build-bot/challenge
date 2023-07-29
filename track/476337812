@@ -1,0 +1,73 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 476337812,
+    "name": "다시 태어나",
+    "lyrics": "니가 나를 떠난 후로\n매일 눈물 흘리며\n술에 취해 잠들던\n수많은 그 밤들\n마주하고 싶지 않았던\n거울 속 못난 내 모습\n이젠 내가 다가가 날 안을게\n\n다시 태어나 새롭게 시작할래\n못난 내가 아냐\n아무도 모르게 니가 날 몰라보게\n180도 달라질 거야\n갈수록 매일 예뻐지는 나\n훨훨 날아올라\n니 마음 애타게 날 보면 안달 나게\n나를 사랑하게 될 거야\n기대해\n\n눈물 대신 땀을 흘리고\n잃어버렸던 나를 찾아\n눈부시게 걸어 세상 앞에 나갈래\n마주치는 사람들 내게 끝없이\n말을 건네고\n가장 멋진 모습으로 웃을게\n\n다시 태어나 새롭게 시작할래\n못난 내가 아냐\n아무도 모르게 니가 날 몰라보게\n180도 달라질 거야\n갈수록 매일 예뻐지는 나\n훨훨 날아올라\n니 마음 애타게 날 보면 안달 나게\n나를 사랑하게 될 거야\n기대해\n\n너를 참 많이 원망했었어\n내 모습이 참 많이 미웠어\n니가 내게 했던 모진 말들이\n불씨가 되어 내 모든 걸 바꾼 거야\n\n다시 태어나 새롭게 시작할래\n못난 내가 아냐\n아무도 모르게 니가 날 몰라보게\n180도 달라질 거야\n갈수록 매일 예뻐지는 나\n훨훨 날아올라\n니 마음 애타게 날 보면 안달 나게\n나를 사랑하게 될 거야\n기대해",
+    "playTime": "03:21",
+    "album": {
+      "id": 414873865,
+      "title": "락락파티 Part.1",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80042899,
+      "name": "나비 (Navi)"
+    },
+    "trackArtistList": [
+      {
+        "name": "나비 (Navi)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "엄지윤",
+        "roleName": "보컬"
+      },
+      {
+        "name": "나비 (Navi)",
+        "roleName": "작사"
+      },
+      {
+        "name": "노주환",
+        "roleName": "작사"
+      },
+      {
+        "name": "나비 (Navi)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "노주환",
+        "roleName": "작곡"
+      },
+      {
+        "name": "노주환",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

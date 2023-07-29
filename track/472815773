@@ -1,0 +1,85 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 472815773,
+    "name": "좋은데 싫어",
+    "lyrics": "널 좋아해 하지만 널 싫어해\n이런 내 맘 나조차도 모르는데\n\n난 좋은데 너는 왜 싫어해\n이런 너를 좋아하는 내가 싫다가도\n결국 널 좋아해\n\n어쩌면 난 행복하지가 않아\n그렇다고 불행하지도 않아\n\n달과 별은 이런 내 맘을 알까\n오늘만은 외롭고 싶지 않아\n\n가끔은 화- 가 너무 많아\n괜스레 짜- 증을 냈잖아\n\n매일 지지고 볶고 속 꺼메지고\n서로를 탓해도\n\n가재는 게 편 무조건 네 편\n굳이 말 안 해도\n\n아아아아\n알다가도 모르겠어\n\n다가가려 하면 할수록 \n자꾸만 멀어지는걸\n\n널 좋아해 하지만 널 싫어해\n이런 내 맘 나조차도 모르는데\n\n난 좋은데 너는 왜 싫어해\n이런 너를 좋아하는 내가 싫다 가도\n결국 널 좋아해\n\n보고 싶다 해서 왔더니\n만나면 한마디 말없지\n사포보다도 까칠한 널\n다치더라도 안고 싶어\n짙어지는 너란 알러지\n기침과 사랑은 숨길 수 없지\n콜록 콜록거리면서도 함께하고파\n이건 Love love love\n\n아아아아\n알다가도 모르겠어\n\n혹시 나와 같은 마음이라면 \njust come to me\n\n널 좋아해 하지만 널 싫어해\n이런 내 맘 나조차도 모르는데\n\n난 좋은데 너는 왜 싫어해\n이런 너를 좋아하는 내가 싫다가도\n결국 널 좋아해\n\n어쩌면 난 행복하지가 않아\n그렇다고 불행하지도 않아\n\n달과 별은 이런 내 맘을 알까\n오늘만은 외롭고 싶지 않아\n\n라 라라 라라라\n라라 라라라\n라라 라라라라 랄랄랄라\n라라 라라라\n라라 라라라\n라라 라라라라 랄랄랄라",
+    "playTime": "03:05",
+    "album": {
+      "id": 413574666,
+      "title": "걸어서 차트 속으로 Part.1",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 407086793,
+      "name": "레게보이즈"
+    },
+    "trackArtistList": [
+      {
+        "name": "레게보이즈",
+        "roleName": "보컬"
+      },
+      {
+        "name": "하하",
+        "roleName": "작사"
+      },
+      {
+        "name": "나도진",
+        "roleName": "작사"
+      },
+      {
+        "name": "유권",
+        "roleName": "작사"
+      },
+      {
+        "name": "설레게",
+        "roleName": "작사"
+      },
+      {
+        "name": "하하",
+        "roleName": "작곡"
+      },
+      {
+        "name": "나도진",
+        "roleName": "작곡"
+      },
+      {
+        "name": "유권",
+        "roleName": "작곡"
+      },
+      {
+        "name": "설레게",
+        "roleName": "작곡"
+      },
+      {
+        "name": "A36",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

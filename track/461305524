@@ -1,0 +1,109 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 461305524,
+    "name": "하나되어",
+    "lyrics": "오오오 오오오 \r\n뜨겁게 Victory\r\n너와 나 하나 되어 \r\n대한민국\r\n오오오 오오오 \r\n싸워라 Victory\r\n우리는 승리한다 \r\n대한민국 \r\n\r\nwoah woah \r\n지금의 이 한 순간을 위해\r\n너는 매일 \r\n갈아버렸잖아 \r\n네 심장은 튼튼해\r\n망설이지 말고 \r\n너가 믿는 놈한테 패스해\r\n넌 혼자인 적 없기에 \r\n넌 내 눈 앞에 혹은 \r\n나의 등 뒤에서 지켜 날\r\n노력해 \r\n난 해 \r\n죽어서라도 해\r\n난 해 \r\n해내 \r\n난 날 배신 못해\r\n\r\n달려야 해\r\n심장이 터져 버린다 해도\r\n다리가 멈춰 버린다 해도\r\n전 국민 모두 \r\n하나가 되어 외쳐\r\n한국의 승리를 위하여 \r\nGo\r\n넣을 수 있어 Goal\r\n준비됐잖아 War\r\n반드시 이겨내 우린 모두\r\n대한민국\r\n\r\n오오오 오오오 \r\n뜨겁게 Victory\r\n너와 나 하나 되어 \r\n대한민국\r\n오오오 오오오 \r\n싸워라 Victory\r\n우리는 승리한다 \r\n대한민국 \r\n\r\n너와 나 하나 되어 \r\n승리의 춤 추자\r\n우리는 승리하리라\r\n대한민국\r\n그 동안의 노력 \r\n그 동안의 고통\r\n그 동안의 슬픔 \r\n그 동안의 걱정\r\n모두 주마등처럼 \r\n내 머릿속을 스쳐\r\n이 순간만을 위해 견뎌왔어\r\n목숨 바쳐\r\n\r\n아리랑 아리랑 아라리요\r\n아리랑 고개로 넘어간다\r\n나를 버리고 가시는 님은\r\n십 리도 못 가서 발병 난다\r\n\r\n오오오 오오오 \r\n하나 된 너와 나\r\n우리는 승리한다 \r\n대한민국 \r\n오오오 오오오 \r\n손 잡고 나가자\r\n끝없는 열정으로\r\n대한민국\r\n\r\n오오오 오오오 \r\n뜨겁게 Victory\r\n너와 나 하나 되어 \r\n대한민국\r\n오오오 오오오 \r\n싸워라 Victory\r\n우리는 승리한다 \r\n대한민국",
+    "playTime": "03:12",
+    "album": {
+      "id": 410071862,
+      "title": "하나되어",
+      "releaseYmd": "20221116",
+      "genreStyle": "힙합,랩",
+      "albumType": "SL",
+      "albumTypeStr": "싱글",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 403938325,
+      "name": "호미들"
+    },
+    "trackArtistList": [
+      {
+        "name": "호미들",
+        "roleName": "보컬"
+      },
+      {
+        "name": "UNEDUCATED KID",
+        "roleName": "보컬"
+      },
+      {
+        "name": "트랜스픽션",
+        "roleName": "보컬"
+      },
+      {
+        "name": "해랑 (Hea Rang)",
+        "roleName": "작사"
+      },
+      {
+        "name": "전호진",
+        "roleName": "작사"
+      },
+      {
+        "name": "UNEDUCATED KID",
+        "roleName": "작사"
+      },
+      {
+        "name": "CK",
+        "roleName": "작사"
+      },
+      {
+        "name": "Chin",
+        "roleName": "작사"
+      },
+      {
+        "name": "Louie",
+        "roleName": "작사"
+      },
+      {
+        "name": "해랑 (Hea Rang)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "전호진",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Lean$moke",
+        "roleName": "작곡"
+      },
+      {
+        "name": "해랑 (Hea Rang)",
+        "roleName": "편곡"
+      },
+      {
+        "name": "전호진",
+        "roleName": "편곡"
+      },
+      {
+        "name": "Lean$moke",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

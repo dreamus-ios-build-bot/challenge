@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400051627,
+    "videoNm": "닿을 수 없는 (Feat. 로이도(Roydo)) (Prod. XENOVIBE)",
+    "playTm": "03:17",
+    "thumbnailImageList": [
+      {
+        "width": 1518,
+        "height": 855,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/627/051/00/04/400051627_61e774ca_s.jpg?1642558667158"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

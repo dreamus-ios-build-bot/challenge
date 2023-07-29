@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400077953,
+    "videoNm": "다시 태어나 (Live Clip)",
+    "playTm": "03:27",
+    "thumbnailImageList": [
+      {
+        "width": 1272,
+        "height": 699,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/953/077/00/04/400077953_64929ba7_s.jpg?1687329703226"
+      }
+    ],
+    "representationArtist": {
+      "id": 80042899,
+      "name": "나비 (Navi)"
+    }
+  }
+}

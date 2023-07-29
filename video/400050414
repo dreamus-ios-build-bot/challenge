@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400050414,
+    "videoNm": "Tonight (Feat. HANUM)",
+    "playTm": "03:12",
+    "thumbnailImageList": [
+      {
+        "width": 1354,
+        "height": 761,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/414/050/00/04/400050414_61c16e68_s.jpg?1640066665156"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

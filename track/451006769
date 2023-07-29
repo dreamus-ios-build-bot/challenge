@@ -1,0 +1,85 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 451006769,
+    "name": "MIRROR",
+    "lyrics": "저 회색빛 하늘 가까이에 닿고 싶어\r\n이 길엔 오늘도 지친 내 모습 보여\r\n고장 난 마음만 커져가는 걸까 Tonight\r\n\r\n파랗게 핀 푸른 하늘 위에 기대서서 \r\n살며시 신비로운 구름 속 끝을 걸어\r\n위태로운 마음이 사라지고 있어 Oh 난\r\n\r\n서두르지 않아도 느려도 괜찮아\r\n지칠 땐 잠깐 쉬어가 Yeah\r\n힘들어도 괜찮아 늦어지면 좀 어때\r\n거울 속 나의 문을 열어\r\n\r\n불 켜진 내 마음에 mirror \r\n단 하나의 미로\r\n어두워진 기억에 빛이 되어줘\r\n정답이 없는 거리 위에 \r\n그냥 하고 싶은 대로\r\n\r\n지친 내 마음속에 mirror \r\n날 감싸준 위로\r\n꿈꿔왔던 순간을 지켜 줄게\r\n언제든 힘이 들 땐 날 찾아와\r\n네 마음을 기대\r\n\r\n짙어진 하늘 아래 앉아 눈 감아봐\r\n지쳤던 마음을 따스히 감싸 안아\r\n불안했던 마음이 \r\n바래지고 있어 Tonight\r\n\r\n서두르지 않아도 느려도 괜찮아\r\n지칠 땐 잠깐 쉬어가 Yeah\r\n힘들어도 괜찮아\r\n늦어지면 좀 어때\r\n거울 속 나의 문을 열어\r\n\r\n불 켜진 내 마음에 mirror \r\n단 하나의 미로\r\n어두워진 기억에 빛이 되어줘\r\n정답이 없는 거리 위에 \r\n그냥 하고 싶은 대로\r\n\r\n지친 내 마음속에 mirror \r\n날 감싸준 위로\r\n꿈꿔왔던 순간을 지켜 줄게\r\n언제든 힘이 들 땐 날 찾아와\r\n네 마음을 기대\r\n\r\n외로웠던 시간 버텨왔던 날들\r\n잘해왔잖아 모두 다\r\n좀 느려도 괜찮아\r\n내가 여기 기다릴게\r\n\r\n아무 말 하지 않아도 \r\n너의 온기가 나를 이끌어가\r\n언제든 힘이 들 땐 닿을 것만 같아\r\n찾아와 내 맘속에\r\n\r\n불 켜진 내 마음에 mirror \r\n단 하나의 미로\r\n어두워진 기억에 빛이 되어줘\r\n정답이 없는 거리 위에 \r\n그냥 하고 싶은 대로\r\n\r\n지친 내 마음속에 mirror \r\n날 감싸준 위로\r\n꿈꿔왔던 순간을 지켜 줄게\r\n언제든 힘이 들 땐 날 찾아와\r\n네 마음을 기대",
+    "playTime": "04:33",
+    "album": {
+      "id": 407448157,
+      "title": "비밀:리에 vol.4 \"MIRROR\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80321904,
+      "name": "권은비"
+    },
+    "trackArtistList": [
+      {
+        "name": "권은비",
+        "roleName": "보컬"
+      },
+      {
+        "name": "신지후",
+        "roleName": "작사"
+      },
+      {
+        "name": "권은비",
+        "roleName": "작사"
+      },
+      {
+        "name": "정성민 (Psycho Tension)",
+        "roleName": "작사"
+      },
+      {
+        "name": "장우용",
+        "roleName": "작사"
+      },
+      {
+        "name": "정성민 (Psycho Tension)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "신지후",
+        "roleName": "작곡"
+      },
+      {
+        "name": "권은비",
+        "roleName": "작곡"
+      },
+      {
+        "name": "신지후",
+        "roleName": "편곡"
+      },
+      {
+        "name": "정성민 (Psycho Tension)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

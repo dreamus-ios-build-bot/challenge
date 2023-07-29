@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400035030,
+    "videoNm": "!!!",
+    "playTm": "03:38",
+    "thumbnailImageList": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/030/035/00/04/400035030_604854b8_o.jpg?1615353016855"
+      }
+    ],
+    "representationArtist": {
+      "id": 404505329,
+      "name": "stage&FLO:취향의 발견"
+    }
+  }
+}

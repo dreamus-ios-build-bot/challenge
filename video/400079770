@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400079770,
+    "videoNm": "시간 참 빠르다 (Live Clip)",
+    "playTm": "03:34",
+    "thumbnailImageList": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/770/079/00/04/400079770_64c23c00_o.jpg?1690450945347"
+      }
+    ],
+    "representationArtist": {
+      "id": 20055617,
+      "name": "순순희"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 449903413,
+    "name": "Tonight (Feat. HANUM)",
+    "lyrics": "I'm waiting for you  \r\nLate at night alone\r\nI'm waiting for you  \r\nWhere I first saw you\r\nno in between\r\na face on a screen\r\nI still feel like you're next to me\r\nI'm waiting for you\r\nLate at night alone\r\nI'm waiting for you\r\nWhere I first saw you\r\nThere's no train for a lost boy\r\nYou love someone else\r\n그러 면 안되는 이 마음을\r\n네게 말하려 해\r\n너와 내 눈빛 그사이엔\r\n널 원하던 나의\r\n이기적인 마음이\r\n비춰진 거 같아\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nIt's just you and I\r\nand no other guys\r\nSay I'm not your type\r\nBut I will try\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nTonight...\r\nTonight...\r\nTonight...\r\nPhone is quiet\r\nwaiting for your text\r\nwaiting for your call\r\n널 처음 봤던 자리에서\r\n네가 울고 있던 자리에서\r\nIt's just you and I\r\nand no other guys\r\nSay I'm not your type\r\nBut I will try\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nImpatient, just say it\r\nI'm waiting for your answer\r\nTonight\r\nIf love is this painful\r\nI wouldn't have even started\r\nTonight\r\nIf love is this painful\r\nI wouldn't have even started\r\nTonight\r\nIf love is this painful\r\nI wouldn't have even started\r\nPhone is quiet\r\nIf love is this painful\r\nI wouldn't have even started",
+    "playTime": "03:05",
+    "album": {
+      "id": 407156489,
+      "title": "Tonight",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "작사"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "작곡"
+      },
+      {
+        "name": "khild",
+        "roleName": "작곡"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "편곡"
+      },
+      {
+        "name": "khild",
+        "roleName": "편곡"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "보컬"
+      }
+    ]
+  }
+}

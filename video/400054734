@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400054734,
+    "videoNm": "Drive (Feat. Chemvura, nextdoor203)",
+    "playTm": "03:32",
+    "thumbnailImageList": [
+      {
+        "width": 1591,
+        "height": 679,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/734/054/00/04/400054734_625651e7_o.jpg?1649824232071"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

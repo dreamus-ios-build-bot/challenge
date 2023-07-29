@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400079257,
+    "videoNm": "Shooting Star (Live Clip)",
+    "playTm": "03:19",
+    "thumbnailImageList": [
+      {
+        "width": 1436,
+        "height": 824,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/257/079/00/04/400079257_64b7934b_s.jpg?1689752395374"
+      }
+    ],
+    "representationArtist": {
+      "id": 80269223,
+      "name": "다원"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 448548103,
+    "name": "못난이 (Feat. 인프피) (Inst.)",
+    "playTime": "03:59",
+    "album": {
+      "id": 406803926,
+      "title": "못난이",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "김항규",
+        "roleName": "작곡"
+      },
+      {
+        "name": "달루아",
+        "roleName": "작곡"
+      },
+      {
+        "name": "달루아",
+        "roleName": "편곡"
+      },
+      {
+        "name": "인프피",
+        "roleName": "보컬"
+      }
+    ]
+  }
+}

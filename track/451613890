@@ -1,0 +1,64 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 451613890,
+    "name": "길지 않아도 깊어 (Feat. AnTasWell (앤타스웰), 정동수(ARKAY)) (Inst.)",
+    "playTime": "03:00",
+    "album": {
+      "id": 407599241,
+      "title": "길지 않아도 깊어",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "정동수 (ARKAY)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "AnTasWell (앤타스웰)",
+        "roleName": "편곡"
+      },
+      {
+        "name": "그웬(Gwen)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

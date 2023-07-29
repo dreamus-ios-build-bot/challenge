@@ -1,0 +1,61 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 448927070,
+    "name": "순리",
+    "lyrics": "밤새워 생각했어요 \n더 이상 피할 수는 없죠\n혹시나 또 맘 약해질까 봐 \n미웠던 일만 더 생각해 내요\n  \n알아요 옳은 결정이죠\n무모하게 내 생각만 했네요    \n여기 내게 다 놔두고 가요    \n처음 만났던 그 날부터 \n오늘 마지막까지  \n \n살다 보면 또 살아지겠죠\n숨을 마시면 그 숨을 뱉듯이  \n모두 정해진 것 같아요 \n거슬러 이어갈 수 없죠\n미안해요 사랑해서 사랑해서  \n\n바람이 날 위로하네요 \n아픈 가슴 어루만져 주네요 \n사랑한 날 다 꿈만 같아요 \n한참 쌓였던 추억부터 \n우리만의 그 약속들까지   \n  \n살다 보면 또 살아지겠죠\n숨을 마시면 그 숨을 뱉듯이  \n모두 정해진 것 같아요 \n거슬러 도망칠 수 없죠\n떠나가요 사랑해도 사랑해도 \n\n어쩔 수 없죠 \n그리워도 견뎌야겠죠\n행복했던 시간만큼 \n우리 아프면 될까요 \n제발 그러길 바라요 \n  \n어느 순간 난 알게 될까요 \n모든 일들이 다 필요했음을  \n운명이 있는 것 같아요 \n우리 이제 받아들여요 \n괜찮아요 사랑해서 사랑해서\n사랑해요",
+    "playTime": "04:56",
+    "album": {
+      "id": 406915139,
+      "title": "#FILM 순리",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 63976,
+      "name": "테이"
+    },
+    "trackArtistList": [
+      {
+        "name": "테이",
+        "roleName": "보컬"
+      },
+      {
+        "name": "Phenomenotes",
+        "roleName": "작사"
+      },
+      {
+        "name": "Phenomenotes",
+        "roleName": "작곡"
+      },
+      {
+        "name": "강화성",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

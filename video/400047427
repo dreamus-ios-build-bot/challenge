@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400047427,
+    "videoNm": "못난이 (Feat. 인프피)",
+    "playTm": "04:06",
+    "thumbnailImageList": [
+      {
+        "width": 1762,
+        "height": 988,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/427/047/00/04/400047427_616cdb60_s.jpg?1634524001024"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

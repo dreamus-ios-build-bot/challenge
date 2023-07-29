@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400033822,
+    "videoNm": "비밀:리에 vol.1 \"사랑, 이게 맞나 봐\"",
+    "playTm": "03:26",
+    "thumbnailImageList": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/822/033/00/04/400033822_6013aa36_s.jpg?1611901494511"
+      }
+    ],
+    "representationArtist": {
+      "id": 404284197,
+      "name": "DAY6 (Even of Day)"
+    }
+  }
+}

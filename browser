@@ -1,1 +1,1831 @@
-
+{
+  "code": "2000000",
+  "data": {
+    "chartList": [
+      {
+        "type": "RANK_CHART",
+        "id": 1,
+        "name": "FLO 차트",
+        "totalCount": 100,
+        "trackList": [
+          {
+            "id": 442542716,
+            "name": "사랑, 이게 맞나 봐",
+            "album": {
+              "id": 405656038,
+              "title": "비밀:리에 vol.1 \"사랑, 이게 맞나 봐\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/038/656/05/04/405656038_5fffd015_o.jpg?1610600470440/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404284197,
+              "name": "DAY6 (Even of Day)"
+            }
+          },
+          {
+            "id": 442542717,
+            "name": "사랑, 이게 맞나 봐 (inst.)",
+            "album": {
+              "id": 405656038,
+              "title": "비밀:리에 vol.1 \"사랑, 이게 맞나 봐\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/038/656/05/04/405656038_5fffd015_o.jpg?1610600470440/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404284197,
+              "name": "DAY6 (Even of Day)"
+            }
+          },
+          {
+            "id": 444024616,
+            "name": "오늘도 난 봄을 기다려",
+            "album": {
+              "id": 405836981,
+              "title": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80225898,
+              "name": "케이시 (Kassy)"
+            }
+          },
+          {
+            "id": 444024617,
+            "name": "오늘도 난 봄을 기다려 (Inst.)",
+            "album": {
+              "id": 405836981,
+              "title": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80225898,
+              "name": "케이시 (Kassy)"
+            }
+          },
+          {
+            "id": 444131165,
+            "name": "버스야 돌고 돌아 다시 내게 오라",
+            "album": {
+              "id": 405848254,
+              "title": "Chamelayone",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 403793854,
+              "name": "래원 (Layone)"
+            }
+          },
+          {
+            "id": 444187371,
+            "name": "!!! (Prod. Lnb)",
+            "album": {
+              "id": 405848254,
+              "title": "Chamelayone",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 403793854,
+              "name": "래원 (Layone)"
+            }
+          },
+          {
+            "id": 444840150,
+            "name": "Antisocial (Prod. Mokyo)",
+            "album": {
+              "id": 406006916,
+              "title": "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 20008679,
+              "name": "pH-1"
+            }
+          },
+          {
+            "id": 444840151,
+            "name": "Antisocial (Prod. Mokyo) (Inst.)",
+            "album": {
+              "id": 406006916,
+              "title": "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/916/006/06/04/406006916_605af81d_s.jpg?1616574495968/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 20008679,
+              "name": "pH-1"
+            }
+          },
+          {
+            "id": 448548101,
+            "name": "못난이 (Feat. 인프피)",
+            "album": {
+              "id": 406803926,
+              "title": "못난이",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 448548103,
+            "name": "못난이 (Feat. 인프피) (Inst.)",
+            "album": {
+              "id": 406803926,
+              "title": "못난이",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/926/803/06/04/406803926_616919ef_o.jpg?1634277872108/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 448927070,
+            "name": "순리",
+            "album": {
+              "id": 406915139,
+              "title": "#FILM 순리",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 63976,
+              "name": "테이"
+            }
+          },
+          {
+            "id": 448927071,
+            "name": "순리 (Inst.)",
+            "album": {
+              "id": 406915139,
+              "title": "#FILM 순리",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/139/915/06/04/406915139_6180a41d_s.jpg?1635820574395/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 63976,
+              "name": "테이"
+            }
+          },
+          {
+            "id": 449199896,
+            "name": "어때? (Feat. 영운, 혜빈)",
+            "album": {
+              "id": 406986080,
+              "title": "어때?",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 449199897,
+            "name": "어때? (Feat. 영운, 혜빈) (Inst.)",
+            "album": {
+              "id": 406986080,
+              "title": "어때?",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/080/986/06/04/406986080_6194a7d8_s.jpg?1637132251296/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 449903413,
+            "name": "Tonight (Feat. HANUM)",
+            "album": {
+              "id": 407156489,
+              "title": "Tonight",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 449903414,
+            "name": "Tonight (Feat. HANUM) (Inst.)",
+            "album": {
+              "id": 407156489,
+              "title": "Tonight",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 450549200,
+            "name": "닿을 수 없는 (Feat. 로이도(Roydo)) (Prod. XENOVIBE)",
+            "album": {
+              "id": 407328349,
+              "title": "닿을 수 없는",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 450549201,
+            "name": "닿을 수 없는 (Feat. 로이도(Roydo)) (Prod. XENOVIBE) (Inst.)",
+            "album": {
+              "id": 407328349,
+              "title": "닿을 수 없는",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/349/328/07/04/407328349_61e4d5a1_o.jpg?1642386850351/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 451006769,
+            "name": "MIRROR",
+            "album": {
+              "id": 407448157,
+              "title": "비밀:리에 vol.4 \"MIRROR\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80321904,
+              "name": "권은비"
+            }
+          },
+          {
+            "id": 451006770,
+            "name": "MIRROR (Inst.)",
+            "album": {
+              "id": 407448157,
+              "title": "비밀:리에 vol.4 \"MIRROR\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/157/448/07/04/407448157_61f3ae7f_s.jpg?1643359872520/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80321904,
+              "name": "권은비"
+            }
+          }
+        ],
+        "basedOnUpdate": "11시 기준",
+        "description": "최근 24시간 집계, FLO 최고 인기곡 차트!"
+      },
+      {
+        "type": "CHART",
+        "id": 20001,
+        "name": "해외 소셜 차트",
+        "totalCount": 50,
+        "trackList": [
+          {
+            "id": 451613889,
+            "name": "길지 않아도 깊어 (Feat. AnTasWell (앤타스웰), 정동수(ARKAY))",
+            "album": {
+              "id": 407599241,
+              "title": "길지 않아도 깊어",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 451613890,
+            "name": "길지 않아도 깊어 (Feat. AnTasWell (앤타스웰), 정동수(ARKAY)) (Inst.)",
+            "album": {
+              "id": 407599241,
+              "title": "길지 않아도 깊어",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/241/599/07/04/407599241_62135ba4_o.jpg?1645435814070/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 452947278,
+            "name": "Pick up your phone",
+            "album": {
+              "id": 407968641,
+              "title": "비밀:리에 vol.5 \"Pick up your phone\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404137751,
+              "name": "미란이 (MIRANI)"
+            }
+          },
+          {
+            "id": 452947279,
+            "name": "Pick up your phone (Inst.)",
+            "album": {
+              "id": 407968641,
+              "title": "비밀:리에 vol.5 \"Pick up your phone\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/641/968/07/04/407968641_624bb0b0_o.jpg?1649127600787/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404137751,
+              "name": "미란이 (MIRANI)"
+            }
+          },
+          {
+            "id": 453211535,
+            "name": "Drive (Feat. Chemvura, nextdoor203)",
+            "album": {
+              "id": 408041914,
+              "title": "Drive",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/914/041/08/04/408041914_6253a1dd_o.jpg?1649648094577/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 404973594,
+              "name": "Flospoon"
+            }
+          },
+          {
+            "id": 455236399,
+            "name": "먹구름",
+            "album": {
+              "id": 408504875,
+              "title": "비밀:리에 vol.6 \"먹구름\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80200254,
+              "name": "페노메코 (PENOMECO)"
+            }
+          },
+          {
+            "id": 455236400,
+            "name": "먹구름 (Inst.)",
+            "album": {
+              "id": 408504875,
+              "title": "비밀:리에 vol.6 \"먹구름\"",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80200254,
+              "name": "페노메코 (PENOMECO)"
+            }
+          },
+          {
+            "id": 461305524,
+            "name": "하나되어",
+            "album": {
+              "id": 410071862,
+              "title": "하나되어",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/862/071/10/04/410071862_6373445d_s.jpg?1668498527977/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 403938325,
+              "name": "호미들"
+            }
+          },
+          {
+            "id": 472815773,
+            "name": "좋은데 싫어",
+            "album": {
+              "id": 413574666,
+              "title": "걸어서 차트 속으로 Part.1",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 407086793,
+              "name": "레게보이즈"
+            }
+          },
+          {
+            "id": 475047871,
+            "name": "Makeba",
+            "album": {
+              "id": 416053166,
+              "title": "설렘의 몫",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/166/053/16/04/416053166_64c88f2e_o.jpg?1690865455883/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80167255,
+              "name": "이새하"
+            }
+          },
+          {
+            "id": 472815774,
+            "name": "좋은데 싫어 (Inst.)",
+            "album": {
+              "id": 413574666,
+              "title": "걸어서 차트 속으로 Part.1",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 407086793,
+              "name": "레게보이즈"
+            }
+          },
+          {
+            "id": 475844103,
+            "name": "아마도 사랑인가 봐",
+            "album": {
+              "id": 414710551,
+              "title": "걸어서 차트 속으로 Part.2",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80246375,
+              "name": "Young K (DAY6)"
+            }
+          },
+          {
+            "id": 475844104,
+            "name": "아마도 사랑인가 봐 (Inst.)",
+            "album": {
+              "id": 414710551,
+              "title": "걸어서 차트 속으로 Part.2",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80246375,
+              "name": "Young K (DAY6)"
+            }
+          },
+          {
+            "id": 476337812,
+            "name": "다시 태어나",
+            "album": {
+              "id": 414873865,
+              "title": "락락파티 Part.1",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80042899,
+              "name": "나비 (Navi)"
+            }
+          },
+          {
+            "id": 476337813,
+            "name": "다시 태어나 (Inst.)",
+            "album": {
+              "id": 414873865,
+              "title": "락락파티 Part.1",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/865/873/14/04/414873865_648ffd82_s.jpg?1687158151390/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80042899,
+              "name": "나비 (Navi)"
+            }
+          },
+          {
+            "id": 477228834,
+            "name": "RUBICON (Explicit Ver.)",
+            "album": {
+              "id": 416053166,
+              "title": "설렘의 몫",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/166/053/16/04/416053166_64c88f2e_o.jpg?1690865455883/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80167255,
+              "name": "이새하"
+            }
+          },
+          {
+            "id": 478548454,
+            "name": "Shooting Star",
+            "album": {
+              "id": 415641488,
+              "title": "걸어서 차트 속으로 Part.3",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80269223,
+              "name": "다원"
+            }
+          },
+          {
+            "id": 478548455,
+            "name": "Shooting Star (Inst.)",
+            "album": {
+              "id": 415641488,
+              "title": "걸어서 차트 속으로 Part.3",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 80269223,
+              "name": "다원"
+            }
+          },
+          {
+            "id": 479227460,
+            "name": "시간 참 빠르다",
+            "album": {
+              "id": 415873252,
+              "title": "시간 참 빠르다",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/252/873/15/04/415873252_64c0e1fe_s.jpg?1690362370625/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 20055617,
+              "name": "순순희"
+            }
+          },
+          {
+            "id": 479227461,
+            "name": "시간 참 빠르다 (Inst.)",
+            "album": {
+              "id": 415873252,
+              "title": "시간 참 빠르다",
+              "imgList": [
+                {
+                  "size": 75,
+                  "url": "https://cdn.music-flo.com/image/v2/album/252/873/15/04/415873252_64c0e1fe_s.jpg?1690362370625/dims/resize/75x75/quality/90"
+                }
+              ]
+            },
+            "representationArtist": {
+              "id": 20055617,
+              "name": "순순희"
+            }
+          }
+        ],
+        "basedOnUpdate": "07/18 ~ 07/24",
+        "description": "유튜브, 틱톡 등 글로벌 트렌드를 한 눈에!"
+      }
+    ],
+    "sectionList": [
+      {
+        "name": "장르",
+        "type": "GENRE",
+        "shortcutList": [
+          {
+            "type": "GENRE",
+            "id": 4,
+            "name": "국내 발라드",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/cf603facfcbe45b5acf3421b0843f49a.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 13,
+            "name": "해외 팝",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/5ecae7e786734835a7e396cb657fb597.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 5,
+            "name": "국내 댄스/일렉",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200623/b2c7e8931da2470ab19f48ba82710024.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 7,
+            "name": "국내 알앤비",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/8eccffe057a1428598f2611592b048c4.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 6,
+            "name": "국내 힙합",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20220214/cbef061870cf416db7a8bc681cf33248.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 8,
+            "name": "트로트",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/0358f7914fd14a15ac7b82dcf79bf998.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 15,
+            "name": "해외 알앤비",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/98254cf67f3c4cb79baf686749c8b30b.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 14,
+            "name": "해외 힙합",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/1f4133f1ca7a41aa86513819d0d50348.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 19,
+            "name": "OST/BGM",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/7645502e6c684ac198fb67b8d2e2e5ea.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 23,
+            "name": "키즈",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200623/3b775e29f3f3460abdd4617b5f33f41a.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 9,
+            "name": "국내 인디",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/02fdfe32c89842e284b6b3c0f017d487.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 20,
+            "name": "클래식",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/65e4aad6b8d242e9b81a4c22496be6da.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 21,
+            "name": "뉴에이지",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/5a6b14075061447590d70bead57756d7.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 22,
+            "name": "재즈",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/61c2706252bc4973a726bad9c8817167.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 10,
+            "name": "국내 팝/어쿠스틱",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200623/f7702092db734c5f874a788c553eb50a.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 11,
+            "name": "국내 포크/블루스",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/37fd6f13154d4847a78c751bd2345c55.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 12,
+            "name": "국내 락/메탈",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/0b60073d4bc64b44bad9cd23823049a0.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 16,
+            "name": "해외 일렉트로닉",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/7557d557256a4634b148799e382cfc2e.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 17,
+            "name": "해외 락",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/db803552b4214dcab40f2fff703e4d86.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 18,
+            "name": "해외 메탈",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/f0014cd3831e4dc798b56e90964e810b.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 25,
+            "name": "J-POP",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/e2353815069d49759c1e5136fc587542.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 24,
+            "name": "맘/태교",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/35f757f30bbd41019c05bbb80991ca67.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 28,
+            "name": "CCM",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/6935ec5dbf7b4b8b9d6aa12b95dd2aa0.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 26,
+            "name": "월드뮤직",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/03dc834df0e1430d930ca151cea5b7ba.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 27,
+            "name": "국악",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/af59112e90eb488abddf8b8604ddc2e6.jpg"
+              }
+            ]
+          },
+          {
+            "type": "GENRE",
+            "id": 29,
+            "name": "종교음악",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/display/genre_rc/20200911/1732255fcb88466bbe2dc06c797cf61d.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "상황",
+        "type": "SITTN",
+        "shortcutList": [
+          {
+            "type": "SITTN",
+            "id": 125,
+            "name": "Top 40",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20221222/eff2d8712e8e4645b66e56c0480afd29.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 127,
+            "name": "#ㅍㅍ",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20230616/41177384a1964c889afe12313eefa5e6.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 117,
+            "name": "플대디",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220107/b7ec307c92e74013960fe84b9ef40e92.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 124,
+            "name": "월간 플로",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220719/71b9fbb926084d62b35b0c0621c3d1f6.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 126,
+            "name": "핫플로",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20230227/eb2628e36d994bfb84274502dc198ebe.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 118,
+            "name": "MBTI",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220214/5208988c62c843d6be0d61fe8b461e9c.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 1,
+            "name": "드라이브",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/433c97b5956a4725ab62b5f8617bb225.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 4,
+            "name": "공부/독서",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/758c7bd109c74685b78a9883faca9edf.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 11,
+            "name": "사랑",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/69cebced164547c0a3c43701e8d6bd09.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 12,
+            "name": "이별",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/c0b1bc5c1dfd4607968b7c1b13bfab34.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 2,
+            "name": "운동/헬스",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/2af3fa2789384ed3acba7e00d1878bc4.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 13,
+            "name": "산책/여행",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/29c3d63e260b49049fabff8773faf880.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 5,
+            "name": "아침",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/349653e80bdb4f138552e4dcd21bd9f4.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 6,
+            "name": "밤/새벽",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/32fe720eea7f4daf81c67eb38dfa2112.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 14,
+            "name": "카페",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/475371896cda4e8cb59ed3c64779ba27.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 15,
+            "name": "휴식/힐링",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/a45fde69805845aeae7f1b8b05bd9c43.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 16,
+            "name": "추억/리메이크",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/aa12e4f6f4624292baaf7fb9e668a1db.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 8,
+            "name": "클럽/파티",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/d9c2321fa69145abb71526c81b76e096.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 3,
+            "name": "출/퇴근",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/0188060f56264bfda0730fadf2057473.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 7,
+            "name": "계절/날씨",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/9f42702bdbc548a3a49343c782d51df9.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 17,
+            "name": "혼술/혼밥",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/5285df775bd745ac80229d0c6150da76.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 9,
+            "name": "목소리/음색",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/6118fbe706a24680b204fb077312d18f.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 18,
+            "name": "내 방",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200924/56249dd3bf4440e9ae9c4a54d350e640.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 19,
+            "name": "노래방",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/650c821a627d4dea840397874fd229cd.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 10,
+            "name": "호텔/라운지",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220527/99f45b18022f4b4cbb03043558baac5d.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 20,
+            "name": "공연/아티스트",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201019/6ca3712dcc7e4a6d8c04484173000fc4.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 39,
+            "name": "자장가",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20200827/8eafdfc54f79470d8d6c2d329d7c8aca.jpg"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 122,
+            "name": "펍/바",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220527/b259e4808d524511a7515176c1fa7217.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 123,
+            "name": "일/작업",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220527/7f55ef3cbc26495a86247e2903215ef3.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 116,
+            "name": "시대별",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20211210/5b4bf698496a4fb3af43d983c83fb266.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 92,
+            "name": "Music-to-Go",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210623/461d9ede39844557a61d8db460ef00f9.png"
+              }
+            ]
+          },
+          {
+            "type": "SITTN",
+            "id": 128,
+            "name": "이마트24",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20230724/123522e9b6314747b561cf532f6ce1fa.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "분위기",
+        "type": "MOOD",
+        "shortcutList": [
+          {
+            "type": "MOOD",
+            "id": 21,
+            "name": "신나는",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210129/b105c77a776540dcae88674bbce96263.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 22,
+            "name": "잔잔한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210129/d4f49aaac44d416a8f2915a29c5bf77d.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 23,
+            "name": "위로하는",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/826884cfdd96482e8c657a3ec809e4d6.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 24,
+            "name": "감성적인",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/7c93ced631e940c1a785aa537386ed2f.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 25,
+            "name": "슬플 때",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/5e15eb506c0b476dae881b375d155f7a.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 26,
+            "name": "우울할 때",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/9b3566572fa549228b4a78a5fa1e3ba0.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 27,
+            "name": "달달한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/124c3282781a4bb18fc5684a6f429282.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 28,
+            "name": "상쾌한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/c989cd9c8f5945c69e9708ea44c8b4d8.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 29,
+            "name": "기분전환",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/ed66b7d516e94bd5a4f5eb6a2dd9539e.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 30,
+            "name": "트렌디한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/b32f711b98184d63be145f52a1dbb14d.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 31,
+            "name": "그루브한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20210219/b1818d864d5a42c191aa1056109873a3.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 32,
+            "name": "파워풀한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/98dbb4daceed40bb9f89947792743f59.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 33,
+            "name": "나른한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/baac3b1d5f42443caf68f51cd41f466f.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 34,
+            "name": "몽환적인",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20201126/66d8a7497a9948118cc66b57c14d89ca.jpg"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 120,
+            "name": "즐거운",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220527/694225291a784452ab2830fdf616db66.png"
+              }
+            ]
+          },
+          {
+            "type": "MOOD",
+            "id": 121,
+            "name": "로맨틱한",
+            "imgList": [
+              {
+                "size": 360,
+                "url": "https://cdn.music-flo.com/poc/p/image/contents/category/20220527/a88fe690ef054bcca470cea94454bfb7.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "programCategoryList": {
+      "name": "오디오 카테고리",
+      "type": "PROGRAM_CATEGORY",
+      "list": [
+        {
+          "programCategoryId": 8,
+          "programCategoryType": "OPERATION",
+          "displayTitle": "FLO 오리지널",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20230308/3ae8579856a84100b6cbe2ead80ea4c2.png"
+        },
+        {
+          "programCategoryId": 17,
+          "programCategoryType": "OPERATION",
+          "displayTitle": "새로 나왔어요",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/6f048cbc6c12467390aeffc1e4022464.png"
+        },
+        {
+          "programCategoryId": 13,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "음악",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/ef83093c5681486398e717d2da06b9c4.png"
+        },
+        {
+          "programCategoryId": 9,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "예능/미스터리",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/3f0985e4a0f34175898abf8099571c36.png"
+        },
+        {
+          "programCategoryId": 10,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "ASMR/힐링",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/49c9171e368447e489dbb19c024a68e5.png"
+        },
+        {
+          "programCategoryId": 11,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "교양/학습",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/1864e13441b147608e23bcd68ec64aca.png"
+        },
+        {
+          "programCategoryId": 12,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "문화/예술",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/083e9965367546d8abf86bd447d1e878.png"
+        },
+        {
+          "programCategoryId": 14,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "시사/경제",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/708757d751e84378a923060d1c6731e8.png"
+        },
+        {
+          "programCategoryId": 15,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "오디오드라마/오디오북",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/9b8ce2b8e0cb4c9eb9cfdd8b8ac5723f.png"
+        },
+        {
+          "programCategoryId": 16,
+          "programCategoryType": "GENERAL",
+          "displayTitle": "스포츠/건강",
+          "imgUrl": "https://cdn.music-flo.com/poc/p/image/contents/category/20220502/75b3aaf69762443684fd7f3621baf25f.png"
+        }
+      ]
+    },
+    "videoPlayList": {
+      "id": null,
+      "name": "추천 영상",
+      "type": "RECOMMENDATION",
+      "videoList": [
+        {
+          "id": 400079257,
+          "videoNm": "Shooting Star (Live Clip)",
+          "playTm": "03:19",
+          "thumbnailImageList": [
+            {
+              "width": 1436,
+              "height": 824,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/257/079/00/04/400079257_64b7934b_s.jpg?1689752395374"
+            }
+          ],
+          "representationArtist": {
+            "id": 80269223,
+            "name": "다원"
+          }
+        },
+        {
+          "id": 400033822,
+          "videoNm": "비밀:리에 vol.1 \"사랑, 이게 맞나 봐\"",
+          "playTm": "03:26",
+          "thumbnailImageList": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/822/033/00/04/400033822_6013aa36_s.jpg?1611901494511"
+            }
+          ],
+          "representationArtist": {
+            "id": 404284197,
+            "name": "DAY6 (Even of Day)"
+          }
+        },
+        {
+          "id": 400034781,
+          "videoNm": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+          "playTm": "03:21",
+          "thumbnailImageList": [
+            {
+              "width": 1396,
+              "height": 786,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/781/034/00/04/400034781_6038898d_s.jpg?1614317965425"
+            }
+          ],
+          "representationArtist": {
+            "id": 80225898,
+            "name": "케이시 (Kassy)"
+          }
+        },
+        {
+          "id": 400035030,
+          "videoNm": "!!!",
+          "playTm": "03:38",
+          "thumbnailImageList": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/030/035/00/04/400035030_604854b8_o.jpg?1615353016855"
+            }
+          ],
+          "representationArtist": {
+            "id": 404505329,
+            "name": "stage&FLO:취향의 발견"
+          }
+        },
+        {
+          "id": 400035773,
+          "videoNm": "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"",
+          "playTm": "03:35",
+          "thumbnailImageList": [
+            {
+              "width": 1494,
+              "height": 840,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/773/035/00/04/400035773_606d3ee3_s.jpg?1617772260250"
+            }
+          ],
+          "representationArtist": {
+            "id": 20008679,
+            "name": "pH-1"
+          }
+        },
+        {
+          "id": 400047427,
+          "videoNm": "못난이 (Feat. 인프피)",
+          "playTm": "04:06",
+          "thumbnailImageList": [
+            {
+              "width": 1762,
+              "height": 988,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/427/047/00/04/400047427_616cdb60_s.jpg?1634524001024"
+            }
+          ],
+          "representationArtist": {
+            "id": 404973594,
+            "name": "Flospoon"
+          }
+        },
+        {
+          "id": 400048599,
+          "videoNm": "순리 (남자 Ver.)",
+          "playTm": "04:56",
+          "thumbnailImageList": [
+            {
+              "width": 1296,
+              "height": 729,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/599/048/00/04/400048599_618a17f5_s.jpg?1636440053232"
+            }
+          ],
+          "representationArtist": {
+            "id": 63976,
+            "name": "테이"
+          }
+        },
+        {
+          "id": 400048986,
+          "videoNm": "어때? (Feat. 영운, 혜빈)",
+          "playTm": "02:34",
+          "thumbnailImageList": [
+            {
+              "width": 1759,
+              "height": 986,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/986/048/00/04/400048986_6194c69f_s.jpg?1637140127698"
+            }
+          ],
+          "representationArtist": {
+            "id": 404973594,
+            "name": "Flospoon"
+          }
+        },
+        {
+          "id": 400050414,
+          "videoNm": "Tonight (Feat. HANUM)",
+          "playTm": "03:12",
+          "thumbnailImageList": [
+            {
+              "width": 1354,
+              "height": 761,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/414/050/00/04/400050414_61c16e68_s.jpg?1640066665156"
+            }
+          ],
+          "representationArtist": {
+            "id": 404973594,
+            "name": "Flospoon"
+          }
+        },
+        {
+          "id": 400051627,
+          "videoNm": "닿을 수 없는 (Feat. 로이도(Roydo)) (Prod. XENOVIBE)",
+          "playTm": "03:17",
+          "thumbnailImageList": [
+            {
+              "width": 1518,
+              "height": 855,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/627/051/00/04/400051627_61e774ca_s.jpg?1642558667158"
+            }
+          ],
+          "representationArtist": {
+            "id": 404973594,
+            "name": "Flospoon"
+          }
+        },
+        {
+          "id": 400052147,
+          "videoNm": "MIRROR",
+          "playTm": "04:33",
+          "thumbnailImageList": [
+            {
+              "width": 1503,
+              "height": 845,
+              "url": "https://cdn.music-flo.com/image/thumnail/null/147/052/00/04/400052147_61fcbcbc_s.jpg?1643953341124"
+            }
+          ],
+          "representationArtist": {
+            "id": 80321904,
+            "name": "권은비"
+          }
+        }
+      ],
+      "description": "추천 영상"
+    }
+  }
+}

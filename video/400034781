@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400034781,
+    "videoNm": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+    "playTm": "03:21",
+    "thumbnailImageList": [
+      {
+        "width": 1396,
+        "height": 786,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/781/034/00/04/400034781_6038898d_s.jpg?1614317965425"
+      }
+    ],
+    "representationArtist": {
+      "id": 80225898,
+      "name": "케이시 (Kassy)"
+    }
+  }
+}

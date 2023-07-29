@@ -1,0 +1,73 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 475844103,
+    "name": "아마도 사랑인가 봐",
+    "lyrics": "어느새 내 하루에\n네 생각으로 가득해\n나도 모르는 새 괜히 웃고 있어\n이런 기분 이상해\n\n수많은 밤\n너를 향해 걸어왔던 나\n이제 알게 된 거야\n조금 뻔하지만\n아마도 사랑인가 봐\n너를 보면 내 마음 \n두근대는 소리가 들려와\n아직도 모를 순 없잖아\n저기 저 별들이 말해주니까\n\n갈수록 궁금한 게 많아질 것 같아\n지난밤은 어땠는지 밥은 먹었는지\n하늘이 눈부신데 \n잠깐 걷자고 말해볼까\n혼잣말이 늘어가\n\n수많은 밤\n너를 향해 걸어왔던 나\n이제 알게 된 거야\n조금 뻔하지만\n아마도 사랑인가 봐\n너를 보면 내 마음 \n두근대는 소리가 들려와\n아직도 모를 순 없잖아\n저기 저 별들이 말해주니까\n\n매일 밤 한참을 뒤척거리다\n어느새 너의 꿈을 꾸곤 해\n내가 왜 이러는지\n너에게 묻고 싶은데\n대답해 줄래\n이런 내 맘 아는지\n\n널 많이 사랑하나 봐\n너를 보면 내 마음 \n두근대는 소리가 들려와\n아직도 모를 순 없잖아\n저기 저 별들이 말해주니까\n\n널 많이 사랑하나 봐\n너를 보면 내 마음 \n두근대는 소리가 들려와\n아직도 모를 순 없잖아\n저기 저 별들이 말해주니까",
+    "playTime": "02:54",
+    "album": {
+      "id": 414710551,
+      "title": "걸어서 차트 속으로 Part.2",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/551/710/14/04/414710551_648833dc_s.jpg?1686647776475/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80246375,
+      "name": "Young K (DAY6)"
+    },
+    "trackArtistList": [
+      {
+        "name": "Young K (DAY6)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "D'tour",
+        "roleName": "작사"
+      },
+      {
+        "name": "아론킴",
+        "roleName": "작곡"
+      },
+      {
+        "name": "D'tour",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Yoo Young Lee",
+        "roleName": "작곡"
+      },
+      {
+        "name": "아론킴",
+        "roleName": "편곡"
+      },
+      {
+        "name": "Yoo Young Lee",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

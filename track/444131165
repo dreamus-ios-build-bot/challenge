@@ -1,0 +1,65 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 444131165,
+    "name": "버스야 돌고 돌아 다시 내게 오라",
+    "lyrics": "보세 옷 코디를 갖춰\n향수를 뿌리고 나서\n멍하니 거울을 봤어\n뭔가 어색해 보였거든 \n\n친구를 잃은 기분만큼의\n발걸음은 가벼워서\n너 카드를 두고 나온 것도\n깜빡한 거니 \n\n목적지에는 차피 나 밖에\n없는데 정신은 깜빡깜빡\n혼자서 지구를 한 바퀴 돌아도\n신호는 더럽게도 안 바뀌어 \n\n줄이 길게 늘어선 \n신논현역 앞에\n표정들의 무게를 \n가늠하니 답답해\n안내방송에 안주하면서 \n자다 깨다를\n반복하다 보니 어느새 다 왔네 \n\n난 이번에 내려야 되는데\n급하게 탄 여성분 너를 닮았네\n혹시나 해서 고개를 떨군 채로\n눈을 굴리며 불편하게 앉았네 \n\n모자를 푹 눌러 쓰고 \n이어폰 볼륨을 올려\n네 향수 냄새가 기억 안 나지만\n심박수를 올렸네 \n\n내 옆이 네가 아닌 걸 알아\nBut 대역 죄인 \n잡고 싶은 손가락\n의자의 표면에서 \n내가 멀어지고\n아무런 파동이 없는 공간이 곧 \n\n펼쳐지면 느껴 둘만의 숨을\n피어싱 끼는 \n그녀의 살결이 스쳐\n내 변태 같은 생각에 \n불만 있어도\n피곤에 찌들어 \n외로운 뇌를 꺼줄 수는 없잖아 \n\n목적지에는 다 와가는데\n어느새 그녀는 꿈뻑꿈뻑\n혼자서 망상을 한 다음에\n신호는 노란색으로 바뀌어 \n\n줄이 길게 늘어선 \n가로등을 지나\n츄리닝을 보이며 \n어깨에 곤히 잠든\n그녀는 내 목에 숨을 불었지만\n내 숨은 멈춘 게 분명한 시간 \n\n나 이번에 내려야 되는데\n급하게 탄 여성분 먼저 깨웠네\n혹시나 해서 고개를 든 채로\n눈을 굴리며 \n서로 빤히 쳐다봤네 \n\n모자를 푹 눌러 쓴 그녀\n살짝 보인 미소 아름다워\n그 향수 냄새를 기억할 때쯤에\n번호 묻기엔 너무 늦었네",
+    "playTime": "03:48",
+    "album": {
+      "id": 405848254,
+      "title": "Chamelayone",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/254/848/05/04/405848254_604087fe_o.jpg?1614841854775/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 403793854,
+      "name": "래원 (Layone)"
+    },
+    "trackArtistList": [
+      {
+        "name": "래원 (Layone)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "래원 (Layone)",
+        "roleName": "작사"
+      },
+      {
+        "name": "래원 (Layone)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Lnb",
+        "roleName": "작곡"
+      },
+      {
+        "name": "Lnb",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

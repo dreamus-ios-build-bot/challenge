@@ -1,0 +1,60 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 455236400,
+    "name": "먹구름 (Inst.)",
+    "playTime": "03:27",
+    "album": {
+      "id": 408504875,
+      "title": "비밀:리에 vol.6 \"먹구름\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/875/504/08/04/408504875_629ec543_o.jpg?1654572355868/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80200254,
+      "name": "페노메코 (PENOMECO)"
+    },
+    "trackArtistList": [
+      {
+        "name": "페노메코 (PENOMECO)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "페노메코 (PENOMECO)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "APRO (아프로)",
+        "roleName": "작곡"
+      },
+      {
+        "name": "APRO (아프로)",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

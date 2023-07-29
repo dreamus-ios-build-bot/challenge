@@ -1,0 +1,64 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 449903414,
+    "name": "Tonight (Feat. HANUM) (Inst.)",
+    "playTime": "03:05",
+    "album": {
+      "id": 407156489,
+      "title": "Tonight",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/489/156/07/04/407156489_61c059e2_s.jpg?1639995876568/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    },
+    "trackArtistList": [
+      {
+        "name": "Flospoon",
+        "roleName": "보컬"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "작곡"
+      },
+      {
+        "name": "khild",
+        "roleName": "작곡"
+      },
+      {
+        "name": "HANUM",
+        "roleName": "편곡"
+      },
+      {
+        "name": "khild",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400048986,
+    "videoNm": "어때? (Feat. 영운, 혜빈)",
+    "playTm": "02:34",
+    "thumbnailImageList": [
+      {
+        "width": 1759,
+        "height": 986,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/986/048/00/04/400048986_6194c69f_s.jpg?1637140127698"
+      }
+    ],
+    "representationArtist": {
+      "id": 404973594,
+      "name": "Flospoon"
+    }
+  }
+}

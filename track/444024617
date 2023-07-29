@@ -1,0 +1,56 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 444024617,
+    "name": "오늘도 난 봄을 기다려 (Inst.)",
+    "playTime": "03:21",
+    "album": {
+      "id": 405836981,
+      "title": "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/981/836/05/04/405836981_602cbb8c_o.jpg?1613544332419/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80225898,
+      "name": "케이시 (Kassy)"
+    },
+    "trackArtistList": [
+      {
+        "name": "케이시 (Kassy)",
+        "roleName": "보컬"
+      },
+      {
+        "name": "조영수",
+        "roleName": "작곡"
+      },
+      {
+        "name": "이유진",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

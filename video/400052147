@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400052147,
+    "videoNm": "MIRROR",
+    "playTm": "04:33",
+    "thumbnailImageList": [
+      {
+        "width": 1503,
+        "height": 845,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/147/052/00/04/400052147_61fcbcbc_s.jpg?1643953341124"
+      }
+    ],
+    "representationArtist": {
+      "id": 80321904,
+      "name": "권은비"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 478548454,
+    "name": "Shooting Star",
+    "lyrics": "지쳐가는 눈을 감고\nLet it flow, take it slow eh eh\n턱 끝까지 차오르는 숨\nListen to the sound, yeah\nWhen you keep falling down\n\n지금부터 시작인 거야\n한 걸음씩 세계를 돌아\nFind what is buried in your mind\nTime never stops\n\n네 마음의 나침반이 \n가리키는 그곳으로\n돌아보지 않고\nIf you just believe, believe\n하나둘씩 쌓여가는 \n하루들에 꿈을 싣고\n눈은 하늘 위로\nIf you just believe, believe\nooh ooh ooh I know I know\nooh ooh ooh I know I know\n\nThe dreamy voice of a little boy\n낡은 일기장 속 아이처럼\n작은 소리에 귀 기울여\n\n사람들의 시선들보다\n내가 걷는 이 길이 옳아\nSay in the mirror, say you’re a star oh\n\n네 마음의 나침반이 \n가리키는 그곳으로\n돌아보지 않고\nIf you just believe, believe\n하나둘씩 쌓여가는 \n하루들에 꿈을 싣고\n눈은 하늘 위로\nIf you just believe, believe\n\nIt’s simple\n너 자신을 믿어\nAnd tell yourself you’re able\nIt’s okay to be slow \n(It’s okay to be slow)\n\n기억해 \n거울 속의 너를 사랑해\n흐트러진 것도 완벽해\nIt’s time for the show eh\n\n네 마음의 나침반이 \n가리키는 그곳으로\n(tell me the way to the star)\n돌아보지 않고\nIf you just believe, believe\n하나둘씩 쌓여가는 \n하루들에 꿈을 싣고\n(nothing can change who you are)\n눈은 하늘 위로\nIf you just believe, believe\n\nooh ooh ooh I know I know\nooh ooh ooh I know I know",
+    "playTime": "03:16",
+    "album": {
+      "id": 415641488,
+      "title": "걸어서 차트 속으로 Part.3",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/488/641/15/04/415641488_64b638a2_s.jpg?1689663656575/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 80269223,
+      "name": "다원"
+    },
+    "trackArtistList": [
+      {
+        "name": "다원",
+        "roleName": "보컬"
+      },
+      {
+        "name": "D'tour",
+        "roleName": "작사"
+      },
+      {
+        "name": "아론킴",
+        "roleName": "작곡"
+      },
+      {
+        "name": "ASHE AHN",
+        "roleName": "작곡"
+      },
+      {
+        "name": "T.O.D",
+        "roleName": "작곡"
+      },
+      {
+        "name": "D'tour",
+        "roleName": "작곡"
+      },
+      {
+        "name": "HAEVN",
+        "roleName": "작곡"
+      },
+      {
+        "name": "KAY",
+        "roleName": "작곡"
+      },
+      {
+        "name": "다원",
+        "roleName": "작곡"
+      },
+      {
+        "name": "아론킴",
+        "roleName": "편곡"
+      },
+      {
+        "name": "ASHE AHN",
+        "roleName": "편곡"
+      },
+      {
+        "name": "HAEVN",
+        "roleName": "편곡"
+      },
+      {
+        "name": "KAY",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}

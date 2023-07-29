@@ -1,0 +1,19 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 400054790,
+    "videoNm": "Pick up your phone",
+    "playTm": "02:55",
+    "thumbnailImageList": [
+      {
+        "width": 2117,
+        "height": 1207,
+        "url": "https://cdn.music-flo.com/image/thumnail/null/790/054/00/04/400054790_6257a7a8_s.jpg?1649911722153"
+      }
+    ],
+    "representationArtist": {
+      "id": 404137751,
+      "name": "미란이 (MIRANI)"
+    }
+  }
+}

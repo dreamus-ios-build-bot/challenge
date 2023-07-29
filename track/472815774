@@ -1,0 +1,68 @@
+{
+  "code": "2000000",
+  "data": {
+    "id": 472815774,
+    "name": "좋은데 싫어 (Inst.)",
+    "playTime": "03:05",
+    "album": {
+      "id": 413574666,
+      "title": "걸어서 차트 속으로 Part.1",
+      "imgList": [
+        {
+          "size": 75,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/75x75/quality/90"
+        },
+        {
+          "size": 140,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/140x140/quality/90"
+        },
+        {
+          "size": 200,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/200x200/quality/90"
+        },
+        {
+          "size": 350,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/350x350/quality/90"
+        },
+        {
+          "size": 500,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/500x500/quality/90"
+        },
+        {
+          "size": 1000,
+          "url": "https://cdn.music-flo.com/image/v2/album/666/574/13/04/413574666_64534bf8_s.jpg?1683180540631/dims/resize/1000x1000/quality/90"
+        }
+      ]
+    },
+    "representationArtist": {
+      "id": 407086793,
+      "name": "레게보이즈"
+    },
+    "trackArtistList": [
+      {
+        "name": "레게보이즈",
+        "roleName": "보컬"
+      },
+      {
+        "name": "하하",
+        "roleName": "작곡"
+      },
+      {
+        "name": "나도진",
+        "roleName": "작곡"
+      },
+      {
+        "name": "유권",
+        "roleName": "작곡"
+      },
+      {
+        "name": "설레게",
+        "roleName": "작곡"
+      },
+      {
+        "name": "A36",
+        "roleName": "편곡"
+      }
+    ]
+  }
+}
